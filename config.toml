@@ -31,3 +31,9 @@ pygmentscodefencesguesssyntax = true
   customCSS = ["css/custom.css"]
   customSCSS = ["scss/custom.scss"]
   customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
